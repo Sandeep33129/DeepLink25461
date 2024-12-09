@@ -3,9 +3,9 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.your.package.name",
+      "package_name": "com.example.android_tic_tac_toe_app",
       "sha256_cert_fingerprints": [
-        "YOUR_APP_SHA256_FINGERPRINT"
+        "68:37:49:5F:09:29:54:8E:B7:04:30:C7:D3:19:0B:25:51:33:55:CC:E1:E3:FC:22:FD:A7:2A:ED:52:0D:98:EB"
       ]
     }
   }
